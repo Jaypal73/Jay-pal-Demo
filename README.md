@@ -1,2 +1,2 @@
-# Jay-pal-Demo
+# Jaypal-Demo
 This is my first repository
