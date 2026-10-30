@@ -1,4 +1,3 @@
-This is my first git repository.
+Hi i'm Jay Prakash Pal
 <br>
-# Author
-Jay Prakash Pal
+Connect me on Linkedin:linkedin.com/in/jay-prakash-pal
