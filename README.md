@@ -1,3 +1,3 @@
-Hi i'm Jay Prakash Pal
+Hi, I'm Jay Prakash Pal
 <br>
-Connect me on Linkedin:linkedin.com/in/jay-prakash-pal
+Connect me on Linkedin: https://www.linkedin.com/in/jay-prakash-pal/
